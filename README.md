@@ -1,3 +1,3 @@
-# python-day1
-Day1homework
+# python-day
+Dayhomework
 仅为了记录学习Python的过程
